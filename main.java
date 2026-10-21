@@ -11,5 +11,6 @@ public class main {
         System.out.println("Ho ten: "+name);
         System.out.println("Nam sinh: "+year);
         System.out.println("Diem trung binh: "+mark);
+        sc.close();
     }
 }
